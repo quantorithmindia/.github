@@ -1,2 +1,1 @@
-# .github
-Quantorithm
+# Quantorithm Private Limited
