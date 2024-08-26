@@ -1,6 +1,8 @@
 # Quantorithm Private Limited
 #### A rhythm that ripples the Quantum
 
+[Reddit](https://www.reddit.com/r/Quantorithm/)
+
 <!--
 
 **Here are some ideas to get you started:**
